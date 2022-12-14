@@ -7,6 +7,11 @@ public class Sample {
 		case 1:
 			System.out.println("sunday");
 			break;
+			
+		case 100:
+			System.out.println("Novfeel");
+			break;
+			
 		case 2:
 			System.out.println("monday");
 			break;
